@@ -1,4 +1,4 @@
-== Rails Admin Custom Action Example
+# Rails Admin Custom Action
 
 This is a fork of [dummy_app](https://github.com/bbenezech/dummy_app) which uses [rails_admin](https://github.com/sferik/rails_admin) to provide a full backend.
 
